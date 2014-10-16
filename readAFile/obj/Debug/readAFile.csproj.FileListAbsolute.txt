@@ -1,0 +1,6 @@
+c:\users\blayid\documents\visual studio 2013\Projects\readAFile\readAFile\bin\Debug\readAFile.exe.config
+c:\users\blayid\documents\visual studio 2013\Projects\readAFile\readAFile\obj\Debug\readAFile.csprojResolveAssemblyReference.cache
+c:\users\blayid\documents\visual studio 2013\Projects\readAFile\readAFile\bin\Debug\readAFile.exe
+c:\users\blayid\documents\visual studio 2013\Projects\readAFile\readAFile\bin\Debug\readAFile.pdb
+c:\users\blayid\documents\visual studio 2013\Projects\readAFile\readAFile\obj\Debug\readAFile.exe
+c:\users\blayid\documents\visual studio 2013\Projects\readAFile\readAFile\obj\Debug\readAFile.pdb
